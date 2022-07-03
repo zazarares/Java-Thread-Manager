@@ -1,0 +1,240 @@
+Time1
+waiting clients:(4,4,2);(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time2
+waiting clients:(4,4,2);(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time3
+waiting clients:(4,4,2);(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time4
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 :(4,4,2);
+Queue1 closed
+Time5
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 :(4,4,2);
+Queue1 closed
+Time6
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time7
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time8
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time9
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time10
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time11
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time12
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time13
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time14
+waiting clients:(2,15,2);(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time15
+waiting clients:(1,18,3);(3,24,3);
+Queue0 :(2,15,2);
+Queue1 closed
+Time16
+waiting clients:(1,18,3);(3,24,3);
+Queue0 :(2,15,2);
+Queue1 closed
+Time17
+waiting clients:(1,18,3);(3,24,3);
+Queue0 closed
+Queue1 closed
+Time18
+waiting clients:(3,24,3);
+Queue0 :(1,18,3);
+Queue1 closed
+Time19
+waiting clients:(3,24,3);
+Queue0 :(1,18,3);
+Queue1 closed
+Time20
+waiting clients:(3,24,3);
+Queue0 :(1,18,3);
+Queue1 closed
+Time21
+waiting clients:(3,24,3);
+Queue0 closed
+Queue1 closed
+Time22
+waiting clients:(3,24,3);
+Queue0 closed
+Queue1 closed
+Time23
+waiting clients:(3,24,3);
+Queue0 closed
+Queue1 closed
+Time24
+waiting clients:
+Queue0 :(3,24,3);
+Queue1 closed
+Time25
+waiting clients:
+Queue0 :(3,24,3);
+Queue1 closed
+Time26
+waiting clients:
+Queue0 :(3,24,3);
+Queue1 closed
+Time27
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time28
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time29
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time30
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time31
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time32
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time33
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time34
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time35
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time36
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time37
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time38
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time39
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time40
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time41
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time42
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time43
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time44
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time45
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time46
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time47
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time48
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time49
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time50
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time51
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time52
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time53
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time54
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time55
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time56
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time57
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time58
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time59
+waiting clients:
+Queue0 closed
+Queue1 closed
+Time60
+waiting clients:
+Queue0 closed
+Queue1 closed
